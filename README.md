@@ -16,7 +16,7 @@ The return value should contain those integers that are positive divisors of the
 4. Start to run
 
 ## Test
-1. Open 'Test Explorer', you will find 3 test methods under 'Not Run Tests' from left pane
+1. Open 'Test Explorer', you will find 5 test methods under 'Not Run Tests' from left pane
 2. Click 'Run All', the right pane will show you the tests are passed and test bar above turns green
 3. If not passed, the right pane will show you where the issue happens, and test status turns red
 
